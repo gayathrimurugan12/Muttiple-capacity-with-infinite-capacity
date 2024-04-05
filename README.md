@@ -23,6 +23,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
+reg no:212223220024
+name:GAYATHRI M
 ~~~
 Developed By :Challa Sandeep
 Register.No :212221240011
